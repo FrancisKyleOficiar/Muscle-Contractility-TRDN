@@ -1,0 +1,4 @@
+Gene symbol: TRDN
+NCBI Gene ID: 10345
+Official name: triadin
+Chromosome: 6
