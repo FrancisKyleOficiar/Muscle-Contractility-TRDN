@@ -11,6 +11,7 @@ Protein Length: 729 aa
 # Process — R Workflow
 
 <img width="697" height="366" alt="image" src="https://github.com/user-attachments/assets/a88be89e-2573-4c94-8ffa-400bbb86dbf9" />
+
 **Figure 1.** RStudio environment showing complete script execution; no runtime errors, confirming the workflow runs successfully.
 
 # Step 1 — Project Setup
@@ -32,6 +33,7 @@ FASTA FILE: https://github.com/FrancisKyleOficiar/Muscle-Contractility-TRDN/blob
 # Step 4 - Amino‑Acid Composition
 
 **Table 1.** Full amino-acid composition of human triadin (TRDN; NP_006064.2; 729 amino-acid residues).
+
 <img width="181" height="421" alt="image" src="https://github.com/user-attachments/assets/a4b0654c-9d51-42be-b092-dd3cf8385bef" />
 
 **Top 3 Most Abundant Residues:**
@@ -41,16 +43,19 @@ FASTA FILE: https://github.com/FrancisKyleOficiar/Muscle-Contractility-TRDN/blob
 
 
 <img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/82ca31de-a9c2-4804-b77f-a2bf4bbba40d" />
+
 **Figure 2.** TRDN amino-acid composition showing lysine (K) and glutamic acid (E) as the most abundant residues, followed by proline (P). This composition describes the protein's amino-acid distribution but does not independently establish its structure or function in calcium regulation.
 
 # Step 5 - ClinVar Record (Variation 66015)
 
 <img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/b164a14a-5058-40c2-a15a-9f72716d4c37" />
+
 **Figure 3.** ClinVar classification of  TRDN — NM_006073.4:c.53_56del (p.Asp18fs) — ClinVar 66015 [frameshift] - Classified as Pathogenic
 
 # Step 6 — Second Biological Visualization
 
 <img width="2400" height="750" alt="image" src="https://github.com/user-attachments/assets/9e19e77f-bf12-4fc9-b822-5d893ae0a0de" />
+
 **Figure 4.** Variant-position plot showing the TRDN c.53_56del (p.Asp18fs) frameshift near residue 18 of the triadin reference protein (NP_006064.2; 729 amino acids). The deletion occurs near the N-terminus and is predicted to cause premature termination, potentially disrupting normal protein production.
 
 # Step 7 - Explain the Molecular Mechanism
